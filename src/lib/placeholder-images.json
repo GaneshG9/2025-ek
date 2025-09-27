@@ -1,0 +1,100 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "Abstract dark background with stars",
+      "imageUrl": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?crop=entropy&cs=tinysrgb&fit=max&fm=webp&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMGRhcmslMjBzdGFyc3xlbnwwfHx8fDE3NjAxMDExNTR8MA&ixlib=rb-4.1.0&q=75&w=800",
+      "imageHint": "abstract stars"
+    },
+    {
+      "id": "property1",
+      "description": "Luxurious villa with a pool",
+      "imageUrl": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?crop=entropy&cs=tinysrgb&fit=max&fm=webp&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjB2aWxsYXxlbnwwfHx8fDE3NTg1OTE0MTd8MA&ixlib=rb-4.1.0&q=75&w=800",
+      "imageHint": "luxury villa"
+    },
+    {
+      "id": "property2",
+      "description": "Cozy suburban family home",
+      "imageUrl": "https://images.unsplash.com/photo-1623715056534-f8052f1dfd86?crop=entropy&cs=tinysrgb&fit=max&fm=webp&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzdWJ1cmJhbiUyMGhvbWV8ZW58MHx8fHwxNzU4NjE2ODY4fDA&ixlib=rb-4.1.0&q=75&w=800",
+      "imageHint": "suburban home"
+    },
+    {
+      "id": "property3",
+      "description": "Modern downtown apartment with city view",
+      "imageUrl": "https://images.unsplash.com/photo-1484154218962-a197022b5858?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtb2Rlcm4lMjBhcGFydG1lbnR8ZW58MHx8fHwxNzU4NTg0NzM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern apartment"
+    },
+    {
+      "id": "property4",
+      "description": "Spacious countryside estate",
+      "imageUrl": "https://images.unsplash.com/photo-1758315479875-c0e021270ada?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y291bnRyeXNpZGUlMjBlc3RhdGV8ZW58MHx8fHwxNzU4NjE2ODY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "countryside estate"
+    },
+    {
+      "id": "solar-before",
+      "description": "House roof without solar panels",
+      "imageUrl": "https://images.unsplash.com/photo-1572443550749-9f7d77876850?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxob3VzZSUyMHJvb2Z8ZW58MHx8fHwxNzU4NTkxMjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "house roof"
+    },
+    {
+      "id": "solar-after",
+      "description": "House roof with solar panels installed",
+      "imageUrl": "https://images.unsplash.com/flagged/photo-1566838616631-f2618f74a6a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c29sYXIlMjBwYW5lbHN8ZW58MHx8fHwxNzU4NTg4NDMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "solar panels"
+    },
+    {
+      "id": "avatar1",
+      "description": "Portrait of a happy customer",
+      "imageUrl": "https://images.unsplash.com/photo-1607529378676-a20456ee2f6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwc21pbGluZ3xlbnwwfHx8fDE3NTg1ODM2NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "avatar2",
+      "description": "Portrait of a satisfied client",
+      "imageUrl": "https://images.unsplash.com/photo-1610631066894-62452ccb927c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwcm9mZXNzaW9uYWwlMjBwZXJzb258ZW58MHx8fHwxNzU4NTkwODM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional person"
+    },
+    {
+      "id": "avatar3",
+      "description": "Portrait of a testimonial provider",
+      "imageUrl": "https://images.unsplash.com/photo-1610655507808-a59293f4e332?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc1ODU1NDA2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "real-estate-card",
+      "description": "Glowing modern architectural design",
+      "imageUrl": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxnbG93aW5nJTIwYXJjaGl0ZWN0dXJlfGVufDB8fHx8MTc2MDExMjM0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "glowing architecture"
+    },
+    {
+      "id": "solar-card",
+      "description": "Futuristic solar panel array",
+      "imageUrl": "https://images.unsplash.com/photo-1509870925592-d67b587a2713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmdXR1cmlzdGljJTIwc29sYXJ8ZW58MHx8fHwxNzYwMTEyNDAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "futuristic solar"
+    },
+    {
+      "id": "99-acres-hero-2",
+      "description": "Close up of a plant in a pot",
+      "imageUrl": "https://images.unsplash.com/photo-1594313016519-640e47a96034?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "imageHint": "plant pot"
+    },
+    {
+      "id": "expo-banner-logo-2",
+      "description": "Times Property Expo Logo",
+      "imageUrl": "https://i.imgur.com/LPA33NX.png",
+      "imageHint": "property expo"
+    },
+    {
+      "id": "generic-logo-1",
+      "description": "Generic partner logo",
+      "imageUrl": "https://images.unsplash.com/photo-1628760584600-6c31148991e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwYXJ0bmVyJTIwbG9nb3xlbnwwfHx8fDE3NTg3MDcwOTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "partner logo"
+    },
+    {
+      "id": "digital-partner-99acres",
+      "description": "99acres logo",
+      "imageUrl": "https://images.unsplash.com/photo-1562783912-21ad31ee2a83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb21wYW55JTIwbG9nb3xlbnwwfHx8fDE3NTg2NzI0MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "company logo"
+    }
+  ]
+}

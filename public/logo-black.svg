@@ -1,0 +1,41 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ekavarta Logo - Light Theme (Black) -->
+  <defs>
+    <style>
+      .logo-dark { fill: #000000; }
+    </style>
+  </defs>
+  
+  <!-- Central star/diamond shape -->
+  <g class="logo-dark">
+    <!-- Top diamond -->
+    <path d="M100 20 L120 50 L100 80 L80 50 Z"/>
+    
+    <!-- Top-right diamond -->
+    <path d="M140 40 L170 60 L150 90 L120 70 Z"/>
+    
+    <!-- Right diamond -->
+    <path d="M180 100 L150 120 L120 100 L150 80 Z"/>
+    
+    <!-- Bottom-right diamond -->
+    <path d="M150 140 L170 170 L140 160 L120 130 Z"/>
+    
+    <!-- Bottom diamond -->
+    <path d="M100 180 L80 150 L100 120 L120 150 Z"/>
+    
+    <!-- Bottom-left diamond -->
+    <path d="M50 140 L30 170 L60 160 L80 130 Z"/>
+    
+    <!-- Left diamond -->
+    <path d="M20 100 L50 80 L80 100 L50 120 Z"/>
+    
+    <!-- Top-left diamond -->
+    <path d="M50 40 L30 60 L60 90 L80 70 Z"/>
+    
+    <!-- Center diamond -->
+    <path d="M100 70 L115 85 L100 100 L85 85 Z"/>
+    <path d="M100 100 L115 115 L100 130 L85 115 Z"/>
+    <path d="M85 100 L70 115 L85 130 L100 115 Z"/>
+    <path d="M115 100 L130 115 L115 130 L100 115 Z"/>
+  </g>
+</svg>
